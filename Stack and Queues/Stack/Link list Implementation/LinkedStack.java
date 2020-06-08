@@ -1,4 +1,4 @@
-package com.company;
+
 
 public class LinkedStack {
     private Node first = null;
