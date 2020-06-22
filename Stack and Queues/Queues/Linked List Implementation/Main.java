@@ -24,7 +24,7 @@ public class Main {
                 }
                 case 2:{
                     if (obj.isEmpty()){
-                        System.out.println("Stack underflow");
+                        System.out.println("Queue underflow");
                     }else {
                         System.out.println(obj.dequeue());
                     }
